@@ -188,7 +188,6 @@ medical_rag/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
-└── README.md
 ```
 
 ---
@@ -205,7 +204,7 @@ medical_rag/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/snehapatil82/clinical_rag_agent)>
 cd "NLP Macro_proj"
 ```
 
