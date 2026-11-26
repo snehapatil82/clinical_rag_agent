@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": "asthma_c1",
+    "text": "Common asthma symptoms include wheezing, breathlessness, and nocturnal cough.",
+    "metadata": {
+      "document_name": "asthma.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "chunk_id": "htn_c1",
+    "text": "Hypertension is defined as blood pressure >= 140/90 mmHg.",
+    "metadata": {
+      "document_name": "hypertension.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "chunk_id": "t2d_c1",
+    "text": "Type 2 diabetes diagnostic criteria include fasting plasma glucose >= 126 mg/dL.",
+    "metadata": {
+      "document_name": "diabetes.pdf",
+      "page_number": 1
+    }
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "q01",
+    "question": "What are the common symptoms of asthma?",
+    "category": "Symptoms",
+    "relevant_documents": ["asthma_management_guidelines.pdf", "asthma_management_guidelines.md"],
+    "reference_answer": "Common cardinal symptoms of asthma include recurrent wheezing (high-pitched musical whistling sound during expiration), shortness of breath (dyspnea), chest tightness, and nocturnal or early morning cough."
+  },
+  {
+    "id": "q02",
+    "question": "How is arterial hypertension classified by blood pressure stages?",
+    "category": "Definition",
+    "relevant_documents": ["hypertension_clinical_guidelines.pdf", "hypertension_clinical_guidelines.md"],
+    "reference_answer": "Hypertension is classified into: Normal (<120/<80 mmHg), Elevated (120-129/<80 mmHg), Stage 1 Hypertension (130-139 or 80-89 mmHg), Stage 2 Hypertension (>=140 or >=90 mmHg), and Hypertensive Crisis (>180 and/or >120 mmHg)."
+  },
+  {
+    "id": "q03",
+    "question": "What are the major modifiable risk factors for hypertension?",
+    "category": "Risk Factors",
+    "relevant_documents": ["hypertension_clinical_guidelines.pdf", "hypertension_clinical_guidelines.md"],
+    "reference_answer": "Major modifiable risk factors for hypertension include high dietary sodium intake (>2,300 mg/day), physical inactivity, obesity/excess adiposity, excessive alcohol consumption (>2 drinks/day for men, >1 drink/day for women), chronic stress, and tobacco smoking."
+  },
+  {
+    "id": "q04",
+    "question": "What are the first-line pharmacological drug classes for managing hypertension?",
+    "category": "Treatment Info",
+    "relevant_documents": ["hypertension_clinical_guidelines.pdf", "hypertension_clinical_guidelines.md"],
+    "reference_answer": "The four first-line antihypertensive classes are Thiazide/thiazide-like diuretics (e.g., chlorthalidone, hydrochlorothiazide), ACE inhibitors (e.g., lisinopril, ramipril), Angiotensin Receptor Blockers (ARBs like losartan), and Dihydropyridine Calcium Channel Blockers (e.g., amlodipine)."
+  },
+  {
+    "id": "q05",
+    "question": "What spirometric criteria confirm the diagnosis of asthma?",
+    "category": "Diagnosis",
+    "relevant_documents": ["asthma_management_guidelines.pdf", "asthma_management_guidelines.md"],
+    "reference_answer": "Asthma is confirmed on spirometry by a reduced FEV1/FVC ratio (<0.70-0.75) and positive bronchodilator reversibility showing an increase in FEV1 of >12% AND >200 mL from baseline after administering inhaled albuterol/salbutamol."
+  },
+  {
+    "id": "q06",
+    "question": "What are common environmental and physical triggers for acute asthma symptoms?",
+    "category": "Causes",
+    "relevant_documents": ["asthma_management_guidelines.pdf", "asthma_management_guidelines.md"],
+    "reference_answer": "Common asthma triggers include inhalant allergens (dust mites, animal dander, fungal spores, pollen), viral respiratory infections (rhinovirus, RSV), cold dry air, vigorous exercise, tobacco smoke, air pollution (PM2.5, ozone), and medications such as non-selective beta-blockers and NSAIDs/aspirin."
+  },
+  {
+    "id": "q07",
+    "question": "What is the cornerstone anti-inflammatory controller therapy in asthma management?",
+    "category": "Treatment Info",
+    "relevant_documents": ["asthma_management_guidelines.pdf", "asthma_management_guidelines.md"],
+    "reference_answer": "Inhaled Corticosteroids (ICS) such as budesonide and fluticasone propionate are the cornerstone anti-inflammatory controller medications in asthma management, often combined with long-acting beta-2 agonists (ICS-LABA)."
+  },
+  {
+    "id": "q08",
+    "question": "What are the laboratory diagnostic criteria for Type 2 Diabetes Mellitus?",
+    "category": "Diagnosis",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "Type 2 Diabetes is diagnosed by: Fasting Plasma Glucose (FPG) >= 126 mg/dL (7.0 mmol/L), 2-hour post-load plasma glucose >= 200 mg/dL (11.1 mmol/L) on OGTT, HbA1c >= 6.5% (48 mmol/mol), or random plasma glucose >= 200 mg/dL with classic hyperglycemia symptoms."
+  },
+  {
+    "id": "q09",
+    "question": "What are the primary microvascular complications associated with chronic diabetes?",
+    "category": "Complications",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "The primary microvascular complications of diabetes are Diabetic Retinopathy (causing vision loss), Diabetic Kidney Disease / Nephropathy (elevated UACR >= 30 mg/g, reduced eGFR < 60), and Diabetic Neuropathy (distal symmetric polyneuropathy and autonomic neuropathy)."
+  },
+  {
+    "id": "q10",
+    "question": "What is the general recommended target HbA1c level for most non-pregnant adults with diabetes?",
+    "category": "Treatment Info",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "The general recommended glycemic target for most non-pregnant adults with diabetes is an HbA1c level of < 7.0% (53 mmol/mol)."
+  },
+  {
+    "id": "q11",
+    "question": "What is the first-line pharmacological therapy for Type 2 Diabetes?",
+    "category": "Treatment Info",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "Metformin (1,000-2,000 mg/day) combined with comprehensive lifestyle modifications is the first-line pharmacological treatment for Type 2 Diabetes."
+  },
+  {
+    "id": "q12",
+    "question": "What cardiovascular and renal benefits are provided by SGLT2 inhibitors and GLP-1 receptor agonists?",
+    "category": "Treatment Info",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "SGLT2 inhibitors reduce heart failure hospitalizations and slow progression of chronic kidney disease. GLP-1 receptor agonists reduce major adverse cardiovascular events (MACE), promote weight loss, and improve glycemic control."
+  },
+  {
+    "id": "q13",
+    "question": "What is the pathogenic sequence in the development of Atherosclerotic Cardiovascular Disease?",
+    "category": "Causes",
+    "relevant_documents": ["cardiovascular_disease_prevention.pdf", "cardiovascular_disease_prevention.md"],
+    "reference_answer": "Atherogenesis begins with endothelial dysfunction, followed by subendothelial retention and oxidation of LDL particles, macrophage recruitment forming foam cells and fatty streaks, progression to fibrous plaques with necrotic lipid cores, and plaque rupture triggering thrombosis."
+  },
+  {
+    "id": "q14",
+    "question": "What is the target LDL-C level for patients at very high cardiovascular risk?",
+    "category": "Treatment Info",
+    "relevant_documents": ["cardiovascular_disease_prevention.pdf", "cardiovascular_disease_prevention.md"],
+    "reference_answer": "For very high-risk cardiovascular patients, the recommended target is an LDL-C level of < 55 mg/dL (1.4 mmol/L) AND at least a >= 50% reduction from baseline LDL-C."
+  },
+  {
+    "id": "q15",
+    "question": "What dietary patterns and lifestyle measures are recommended for cardiovascular disease prevention?",
+    "category": "Prevention",
+    "relevant_documents": ["cardiovascular_disease_prevention.pdf", "cardiovascular_disease_prevention.md"],
+    "reference_answer": "Recommendations include a Mediterranean or plant-forward diet rich in vegetables, fruits, whole grains, and olive oil, saturated fats < 7% of energy, no trans-fats, 150-300 min/week moderate aerobic physical activity, complete smoking cessation, and maintaining BMI 20-25 kg/m2."
+  },
+  {
+    "id": "q16",
+    "question": "What antiplatelet regimen is indicated for secondary prevention in established ASCVD?",
+    "category": "Treatment Info",
+    "relevant_documents": ["cardiovascular_disease_prevention.pdf", "cardiovascular_disease_prevention.md"],
+    "reference_answer": "Lifelong low-dose Aspirin (75-100 mg daily) or Clopidogrel (75 mg daily) is indicated for secondary prevention in patients with established atherosclerotic cardiovascular disease."
+  },
+  {
+    "id": "q17",
+    "question": "What are the cardinal clinical symptoms and physical signs of Community-Acquired Pneumonia?",
+    "category": "Symptoms",
+    "relevant_documents": ["community_acquired_pneumonia_guidelines.pdf", "community_acquired_pneumonia_guidelines.md"],
+    "reference_answer": "Cardinal symptoms include cough with purulent/rust-colored sputum, dyspnea, fever, rigors/chills, pleuritic chest pain, and physical signs of focal crackles/rales, bronchial breath sounds, and dullness to percussion."
+  },
+  {
+    "id": "q18",
+    "question": "What is the most common bacterial pathogen causing Community-Acquired Pneumonia in adults?",
+    "category": "Causes",
+    "relevant_documents": ["community_acquired_pneumonia_guidelines.pdf", "community_acquired_pneumonia_guidelines.md"],
+    "reference_answer": "Streptococcus pneumoniae (pneumococcus) is the most common bacterial pathogen causing community-acquired pneumonia across all adult age groups, accounting for ~50% of bacterial CAP cases."
+  },
+  {
+    "id": "q19",
+    "question": "How are the CURB-65 criteria scored to assess pneumonia severity?",
+    "category": "Diagnosis",
+    "relevant_documents": ["community_acquired_pneumonia_guidelines.pdf", "community_acquired_pneumonia_guidelines.md"],
+    "reference_answer": "CURB-65 assigns 1 point each for: Confusion (AMT <= 8), Urea (BUN > 19 mg/dL or urea > 7 mmol/L), Respiratory rate (>= 30 bpm), Blood pressure (SBP < 90 or DBP <= 60 mmHg), and Age >= 65 years. Scores 0-1 are low risk (outpatient), score 2 is moderate risk, and scores 3-5 indicate severe pneumonia requiring urgent hospitalization."
+  },
+  {
+    "id": "q20",
+    "question": "What is the recommended empiric outpatient antibiotic treatment for healthy adults with CAP?",
+    "category": "Treatment Info",
+    "relevant_documents": ["community_acquired_pneumonia_guidelines.pdf", "community_acquired_pneumonia_guidelines.md"],
+    "reference_answer": "First-line empiric outpatient therapy for previously healthy adults without comorbidities is oral Amoxicillin (1g three times daily) or Doxycycline (100 mg twice daily) for 5 to 7 days."
+  },
+  {
+    "id": "q21",
+    "question": "What non-pharmacological lifestyle interventions effectively lower blood pressure in hypertension?",
+    "category": "Prevention",
+    "relevant_documents": ["hypertension_clinical_guidelines.pdf", "hypertension_clinical_guidelines.md"],
+    "reference_answer": "Effective non-pharmacological interventions include the DASH diet (reduces SBP by 8-14 mmHg), sodium restriction to <1,500 mg/day (5-6 mmHg drop), regular aerobic exercise 90-150 min/week (4-9 mmHg drop), weight reduction (~1 mmHg per kg lost), and moderate alcohol intake."
+  },
+  {
+    "id": "q22",
+    "question": "What are the key signs of severe acute asthma exacerbations that require emergency care?",
+    "category": "Symptoms",
+    "relevant_documents": ["asthma_management_guidelines.pdf", "asthma_management_guidelines.md"],
+    "reference_answer": "Danger signs include inability to speak full sentences in one breath, tachypnea (>25 breaths/min), tachycardia (>110 bpm), accessory respiratory muscle use, peak expiratory flow < 50% predicted, and oxygen saturation (SpO2) < 92%."
+  },
+  {
+    "id": "q23",
+    "question": "What macrovascular complications are associated with chronic Type 2 Diabetes?",
+    "category": "Complications",
+    "relevant_documents": ["type2_diabetes_guidelines.pdf", "type2_diabetes_guidelines.md"],
+    "reference_answer": "Macrovascular complications of diabetes include Coronary Artery Disease (myocardial infarction), Ischemic Cerebrovascular Disease (stroke), and Peripheral Artery Disease (PAD)."
+  },
+  {
+    "id": "q24",
+    "question": "What is the weather forecast in Tokyo tomorrow?",
+    "category": "Out-of-Domain",
+    "relevant_documents": [],
+    "reference_answer": "I could not find sufficient evidence in the provided medical knowledge base to answer this question reliably."
+  },
+  {
+    "id": "q25",
+    "question": "How do I build a convolutional neural network in PyTorch?",
+    "category": "Out-of-Domain",
+    "relevant_documents": [],
+    "reference_answer": "I could not find sufficient evidence in the provided medical knowledge base to answer this question reliably."
+  },
+  {
+    "id": "q26",
+    "question": "What are the flight schedules between London and New York?",
+    "category": "Out-of-Domain",
+    "relevant_documents": [],
+    "reference_answer": "I could not find sufficient evidence in the provided medical knowledge base to answer this question reliably."
+  }
+]
